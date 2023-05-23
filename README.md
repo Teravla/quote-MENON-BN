@@ -9,11 +9,11 @@ ______
 * ***Initiateur*** : MENON Valentin
 * ***Collaborateur-1*** : HO Wilhem
 * ***Collaborateur-2*** : YOUSSOUFA Tamaya
-* ***Collaborateur-3 et Collaborateur-4*** : OKANA Joss
+* ***Collaborateur-3*** : DOUNIAMA Joss
 
 ### **Fork URL**
 
 * ***Collaborateur-1*** : [quote-HO-BN](https://github.com/)
 * ***Collaborateur-2***
  : [quote-YOUSSOUFA-BN](https://github.com/)
-* ***Collaborateur-3 et Collaborateur-4*** : [quote-OKANA-BN](https://github.com)
+* ***Collaborateur-3*** : [quote-DOUNIAMA-BN](https://github.com)
